@@ -1,0 +1,5 @@
+What is the synonym of 'Happy'?|Sad|Joyful|Angry|Tired|1
+Which of the following is a verb?|Apple|Run|Beautiful|Quickly|1
+Choose the correct sentence.|He go to school.|He goes to school.|He going to school.|He gone to school.|1
+What is the opposite of 'Big'?|Large|Huge|Small|Tall|2
+I ___ a student.|am|is|are|be|0
